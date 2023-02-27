@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Hello Lasse App</string>
     <string name="Hello_Lasse">Hello Lasse!</string>
+    <string name="SweetMessage">Hey Friend, you look good</string>
 </resources>
